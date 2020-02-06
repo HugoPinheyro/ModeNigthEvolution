@@ -4,7 +4,8 @@ DarkPagee
 
 
 const  <script>
-// pegamos o valor no localStorage
+
+
 const nightModeStorage = localStorage.getItem('gmtNightMode');
 const nightMode = document.querySelector('#night-mode');
 // caso tenha o valor no localStorage
