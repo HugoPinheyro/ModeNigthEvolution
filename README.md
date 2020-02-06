@@ -3,7 +3,7 @@ DarkPagee
 
 
 
-const  <script>
+<scrip>
 
 
 const nightModeStorage = localStorage.getItem('gmtNightMode');
