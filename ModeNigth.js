@@ -9,7 +9,7 @@ if (nightModeStorage) { ativa o modo noturno
    nightMode.checked = true; }
    //ao clicar em mudarmos como núcleos
     nightMode.addEventListener ('click', () => {
-    //  adiciona a classe night-modeao html
+    //  adiciona a classe night-mode ao html
       document.documentElement.classList.toggle ('night-mode');
 
  //se tiver um modo noturno de classe
